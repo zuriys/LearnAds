@@ -1,0 +1,45 @@
+        body {
+            background: #1f2c8b;
+            color: #333;
+        }
+
+        .navbar {
+            background-color: #11335d;
+        }
+
+        .navbar-nav .nav-link {
+            color: #fff !important;
+        }
+
+        .btn-posting {
+            background-color: #ffb347;
+            color: #fff;
+            border: none;
+        }
+
+        .form-container {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+
+        footer {
+            background: #11335d;
+            color: #fff;
+            padding: 20px 0;
+            margin-top: 50px;
+        }
+
+        .btn-primary {
+            background-color: #ffb347;
+            border: none;
+        }
+
+        .custom-button{
+            background-color: #E8A652;
+            color :aliceblue;
+            font-weight: bold;
+            border-radius: 10px;
+        }
+
